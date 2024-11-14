@@ -1,6 +1,6 @@
-# keyz-project-it
-## Road Map
-!['Web keyzz'](images/webkwyz.png)
+# Bong_cpu_project
+
+!['Bong_cpu'](bong/bongcpu.png)
 
 
 ## ภาษาที่ใช้
